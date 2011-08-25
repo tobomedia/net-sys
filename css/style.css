@@ -354,6 +354,89 @@ display: block;
 position: relative;
 width: 1000px;
 height: 300px;
+}
+
+
+#footer {
+width: 100%;
+height: 210px;
+display: block;
+background: url(../img/footer_bg.png) repeat-x 0 0;
+padding: 10px 0;
+}
+
+
+#footer_content {
+width: 960px;
+height: 100%;
+display: block;
+margin: 15px auto 15px auto;
+}
+
+#footer_content p {
+width: 190px;
+height:70px;
+margin: 0 auto;
+font-family: 'Quicksand', sans-serif;
+color: #ffffff;
+font-size: 15px;
+}
+
+#footer_content p span {
+font-size: 20px;
+display: block;
+margin: 5px;
+}
+
+#footer_content p a {
+text-decoration: none;
+display: inline;
+background: #007fff;
+background-image: -webkit-linear-gradient(#004c99,#007fff);
+background-image: -moz-linear-gradient(#004c99,#007fff);
+background-image: -o-linear-gradient(#004c99,#007fff);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+-o-border-radius: 5px;
+border: none;
+padding:5px 10px;
+color: #ffffff;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+/*************
+*  Scroller
+**************/
+
+#scroller {
+position: relative;
+background: #90bbe5;
+overflow:hidden;
+display: block;
+margin: 10px 0 ;
+width: 900px;
+height: 100px;
+}
+
+#scroller ul {
+width: 100%;;
+padding:0;
+margin: 0;
+display: block;
+overflow: hidden;
+}
+
+#scroller ul li {
+float: left;
+position: relative;
+top: 10px;
+left:0px;
+margin: 0 20px;
+height: 100px;
+list-style: none;
+}
+
 
 
 /* ==|== non-semantic helper classes ========================================
