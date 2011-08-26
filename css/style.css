@@ -409,7 +409,7 @@ font-family: 'Quicksand', sans-serif;
 *  Scroller
 **************/
 
-#scroller {
+.scroller {
 position: relative;
 background: #90bbe5;
 overflow:hidden;
@@ -419,15 +419,24 @@ width: 900px;
 height: 100px;
 }
 
-#scroller ul {
-width: 100%;;
+.scroller_wrap {
 padding:0;
 margin: 0;
 display: block;
 overflow: hidden;
+position: relative;
+float: left;
+height: 100px;
 }
 
-#scroller ul li {
+.scroller_wrap ul {
+float:left;
+position: relative;
+display: block;
+overflow: hidden;
+}
+
+.scroller ul li {
 float: left;
 position: relative;
 top: 10px;
