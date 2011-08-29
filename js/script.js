@@ -20,7 +20,7 @@ var settings = {
 						$('ul', settings.scrollerElem).each(function() { 
 							if(settings.scrollerElemPos < settings.scrollerParentWidth) {
 									$(this).css({left:'-' + settings.scrollerElemPos++ +'px'})
-							} else { $(this).hide().css({left: settings.scrollerParentWidth+'px'}) }
+							} else { settings.scrollerElemPos = 0	}
 						})
 					}
 	};
@@ -40,11 +40,12 @@ var settings = {
 			$(settings.scrollerElem).css({width: settings.scrollerParentWidth*2 + 'px'}) ;
 			});
 		} else { setTimeout(function() {init()}, 10)}
+		console.log(settings.scrollerParentWidth)
 	}())
 }())
 
 setInterval(function() {settings.featuredContentMove()},5000);
-setInterval(function() {settings.scrollerMove() }, 10);
+setInterval(function() {settings.scrollerMove() }, 60);
 
 
 
