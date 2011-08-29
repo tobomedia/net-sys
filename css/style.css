@@ -302,6 +302,7 @@ font-family: 'Quicksand', sans-serif;
 width: 470px;
 height:110px;
 padding: 15px 10px;
+position: relative;
 }
 
 .left.services {
@@ -329,6 +330,13 @@ width: 320px;
 padding:0;
 margin: 0;
 }
+
+.services img {
+position: absolute;
+top: -20px;
+right:0px;
+}
+
 
 .feature_wrap {
 display: block;
