@@ -442,6 +442,7 @@ float:left;
 position: relative;
 display: block;
 overflow: hidden;
+padding:0;
 }
 
 .scroller ul li {
