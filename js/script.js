@@ -18,7 +18,7 @@ var settings = {
 	scrollerParentWidth: 0 ,
 	scrollerMove: function() { 
 						$('ul', settings.scrollerElem).each(function() { 
-							if(settings.scrollerElemPos < settings.scrollerParentWidth) {
+							if((settings.scrollerElemPos+110) < settings.scrollerParentWidth) {
 									$(this).css({left:'-' + settings.scrollerElemPos++ +'px'})
 							} else { settings.scrollerElemPos = 0	}
 						})
@@ -45,7 +45,7 @@ var settings = {
 }())
 
 setInterval(function() {settings.featuredContentMove()},5000);
-setInterval(function() {settings.scrollerMove() }, 60);
+setInterval(function() {settings.scrollerMove() }, 65);
 
 
 
