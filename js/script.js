@@ -45,7 +45,7 @@ var settings = {
 }())
 
 
-//timeout's
+//timeouts
 setInterval(function() {settings.featuredContentMove()},5000);
 setInterval(function() {settings.scrollerMove() }, 65);
 
