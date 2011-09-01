@@ -107,6 +107,10 @@ sub { bottom: -0.25em; }
 
 }
 
+h1, h2, h3, h4, h5 {
+font-family: 'Quicksand', sans-serif;
+}
+
 /* =============================================================================
    Lists
    ========================================================================== */
@@ -364,6 +368,26 @@ width: 1000px;
 height: 300px;
 }
 
+
+.feature_wrap li div.right {
+width:500px;
+height: 100%;
+display: block;
+color:#ffffff;
+}
+
+.feature_wrap li div.right p {
+margin-bottom:30px;
+}
+
+.feature_wrap li div.right a {
+background: url(../img/button_bg.jpg) ;
+padding: 10px 30px;
+border: 1px solid #ffffff;
+border-radius: 8px;
+color: #ffffff;
+text-decoration: none;
+}
 
 #footer {
 width: 100%;

@@ -6,9 +6,10 @@
 var settings = {
 	featureElem: $('.feature_wrap ul'),
 	featuredContentMove: function() {
-						var featureElemPos = settings.featureElem.position();	
+						var featureElemPos = settings.featureElem.position(), featureElemCount = $(settings.featureElem).find('li').length;	
 						if(featureElemPos.left > -2000) {
 							$(settings.featureElem).animate({left: + (featureElemPos.left-1000) + 'px'}, 500);
+							console.log(featureElemCount)
 						} else {
 							$(settings.featureElem).animate({left:'0px'}, 500);
 						}
