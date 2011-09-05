@@ -6,12 +6,11 @@
 var settings = {
 	featureElem: $('.feature_wrap ul'),
 	featuredContentMove: function() {
-						var featureElemPos = settings.featureElem.position(), featureElemCount = $(settings.featureElem).find('li').length;	
-						if(featureElemPos.left > -2000) {
-							$(settings.featureElem).animate({left: + (featureElemPos.left-1000) + 'px'}, 500);
-							console.log(featureElemCount)
+						var featureElemPos = settings.featureElem.position();	
+						if(featureElemPos.left > -5000) {
+							$(settings.featureElem).fadeOut(500).animate({left: '-=1000px'}).fadeIn(500);
 						} else {
-							$(settings.featureElem).animate({left:'0px'}, 500);
+							$(settings.featureElem).fadeOut(500).animate({left:'0px'}).fadeIn(500);
 						}
 					},
 	scrollerElem: $('.scroller_wrap'),
@@ -41,7 +40,7 @@ var settings = {
 			$(settings.scrollerElem).css({width: settings.scrollerParentWidth*2 + 'px'}) ;
 			});
 		} else { setTimeout(function() {init()}, 10)}
-		console.log(settings.scrollerParentWidth)
+		//console.log(settings.scrollerParentWidth)
 	}())
 }())
 
