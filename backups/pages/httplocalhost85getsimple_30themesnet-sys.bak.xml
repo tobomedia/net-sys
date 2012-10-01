@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 12 Sep 2011 12:08:01 -0400</pubDate><title><![CDATA[Home]]></title><url><![CDATA[httplocalhost85getsimple_30themesnet-sys]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;
+	&amp;nbsp; &amp;lt;div class=&amp;quot;left services&amp;quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;h2&amp;gt;Home Entertainment&amp;lt;/h2&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;img src=&amp;quot;&amp;lt;?php get_theme_url(); ?&amp;gt;/img/home_ent_graph.png&amp;quot; alt=&amp;quot;Home Entertainment&amp;quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;div class=&amp;quot;right services&amp;quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;h2&amp;gt;Telecoms&amp;lt;/h2&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;img src=&amp;quot;&amp;lt;?php get_theme_url(); ?&amp;gt;/img/telecoms_graph.png&amp;quot; alt=&amp;quot;Home Entertainment&amp;quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;div class=&amp;quot;left services&amp;quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;h2&amp;gt;IT Support&amp;lt;/h2&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;img style=&amp;quot;top:0px; right:8px;&amp;quot; src=&amp;quot;&amp;lt;?php get_theme_url(); ?&amp;gt;/img/it_sup_graph.png&amp;quot; alt=&amp;quot;Home Entertainment&amp;quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;div class=&amp;quot;right services&amp;quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;h2&amp;gt;Outsourcing&amp;lt;/h2&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;img src=&amp;quot;&amp;lt;?php get_theme_url(); ?&amp;gt;/img/outsourcing_graph.png&amp;quot; alt=&amp;quot;Home Entertainment&amp;quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;div class=&amp;quot;left services&amp;quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;h2&amp;gt;Cloud Services&amp;lt;/h2&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;img style=&amp;quot;top:-12px; right:8px;&amp;quot; src=&amp;quot;&amp;lt;?php get_theme_url(); ?&amp;gt;/img/cloud_graph.png&amp;quot; alt=&amp;quot;Home Entertainment&amp;quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;div class=&amp;quot;right services&amp;quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;h2&amp;gt;Testimonials&amp;lt;/h2&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;lt;img src=&amp;quot;&amp;lt;?php get_theme_url(); ?&amp;gt;/img/testimonials_graph.png&amp;quot; alt=&amp;quot;Home Entertainment&amp;quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private></item>

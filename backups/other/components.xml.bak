@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[featur-slide]]></title><slug>featur-slide</slug><value><![CDATA[&lt;div class=\&quot;feature_wrap left\&quot;&gt;
+
+			&lt;ul&gt;
+
+				&lt;li class=\&quot;left\&quot; &gt;
+
+					&lt;div class=\&quot;left\&quot;&gt;
+
+						&lt;img/ src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/home_ent_graph_big.png\&quot; /&gt;
+
+					&lt;/div&gt;
+
+					&lt;div class=\&quot;right\&quot; &gt;
+
+						&lt;h1&gt;Home Entertainmnet&lt;/h1&gt;
+
+						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+
+						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
+
+					&lt;/div&gt;
+
+				&lt;/li&gt;
+
+				&lt;li class=\&quot;left\&quot; &gt;
+
+									&lt;div class=\&quot;left\&quot;&gt;
+
+						&lt;img/ src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/telecoms_graph_big.png\&quot; /&gt;
+
+					&lt;/div&gt;
+
+					&lt;div class=\&quot;right\&quot; &gt;
+
+						&lt;h1&gt;Telecoms&lt;/h1&gt;
+
+						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+
+						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
+
+					&lt;/div&gt;
+
+				&lt;/li&gt;
+
+				&lt;li class=\&quot;left\&quot; &gt;
+
+									&lt;div class=\&quot;left\&quot;&gt;
+
+						&lt;img/ src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/it_sup_graph_big.png\&quot; /&gt;
+
+					&lt;/div&gt;
+
+					&lt;div class=\&quot;right\&quot; &gt;
+
+						&lt;h1&gt;IT Support&lt;/h1&gt;
+
+						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+
+						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
+
+					&lt;/div&gt;
+
+				&lt;/li&gt;
+
+								&lt;li class=\&quot;left\&quot; &gt;
+
+									&lt;div class=\&quot;left\&quot;&gt;
+
+						&lt;img/ src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/outsourcing_graph_big.png\&quot; /&gt;
+
+					&lt;/div&gt;
+
+					&lt;div class=\&quot;right\&quot; &gt;
+
+						&lt;h1&gt;Outsourcing&lt;/h1&gt;
+
+						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+
+						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
+
+					&lt;/div&gt;
+
+				&lt;/li&gt;
+
+								&lt;li class=\&quot;left\&quot; &gt;
+
+									&lt;div class=\&quot;left\&quot;&gt;
+
+						&lt;img/ src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/cloud_graph_big.png\&quot; /&gt;
+
+					&lt;/div&gt;
+
+					&lt;div class=\&quot;right\&quot; &gt;
+
+						&lt;h1&gt;Cloud Services&lt;/h1&gt;
+
+						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+
+						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
+
+					&lt;/div&gt;
+
+				&lt;/li&gt;
+
+								&lt;li class=\&quot;left\&quot; &gt;
+
+									&lt;div class=\&quot;left\&quot;&gt;
+
+						&lt;img/ src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/testimonials_graph_big.png\&quot; /&gt;
+
+					&lt;/div&gt;
+
+					&lt;div class=\&quot;right\&quot; &gt;
+
+						&lt;h1&gt;Testimonials&lt;/h1&gt;
+
+						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+
+						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
+
+					&lt;/div&gt;
+
+				&lt;/li&gt;
+
+			&lt;/ul&gt;
+
+		&lt;/div&gt;]]></value></item><item><title><![CDATA[footer]]></title><slug>footer</slug><value><![CDATA[   &lt;footer&gt;
+
+
+
+		&lt;div id=\&quot;footer\&quot; class=\&quot;left\&quot;&gt;
+
+
+
+			&lt;div id=\&quot;footer_content\&quot;&gt;
+
+
+
+				&lt;p&gt;
+
+
+
+					Call Us on:
+
+
+
+					&lt;span&gt;0800 123 4567&lt;/span&gt; or 
+
+
+
+					&lt;a href=\&quot;&lt;?php get_site_url(); ?&gt;contact\&quot;&gt;Send Us a Message&lt;/a&gt;
+
+
+
+				&lt;/p&gt;
+
+
+
+				&lt;div class=\&quot;scroller\&quot; &gt;
+
+
+
+				&lt;div class=\&quot;scroller_wrap\&quot;&gt;
+
+
+
+					&lt;ul&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/DELL.png\&quot; alt=\&quot;Dell computers Partner\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/MAC.png\&quot; alt=\&quot;Mac computers supported\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/MSPartner.png\&quot; alt=\&quot;Microsoft Partner\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/MSSmallBusiness.png\&quot; alt=\&quot;Microsoft Small Business\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/Opal.png\&quot; alt=\&quot;Opal Support\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/Wyse.png\&quot; alt=\&quot;Wyse\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/ZyNOS.png\&quot; alt=\&quot;ZyNOS\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/ZyXEL.png\&quot; alt=\&quot;ZyXEL\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/Zyxel1.png\&quot; alt=\&quot;Zyxel1\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;li&gt;
+
+
+
+					&lt;img src=\&quot;&lt;?php get_theme_url(); ?&gt;/img/Zyxel2.png\&quot; alt=\&quot;Zyxel2\&quot; /&gt;
+
+
+
+					&lt;/li&gt;
+
+
+
+					&lt;/ul&gt;
+
+
+
+					&lt;/div&gt;
+
+
+
+				&lt;/div&gt;
+
+&lt;a href=\&quot;&lt;?php get_site_url(); ?&gt;admin\&quot; &gt; Login&lt;/a&gt;
+
+			&lt;/div&gt;
+
+
+
+		&lt;/div&gt;
+
+
+
+    &lt;/footer&gt;]]></value></item><item><title><![CDATA[header &amp; Navigation]]></title><slug>header-navigation</slug><value><![CDATA[&lt;header&gt;
+
+
+
+	&lt;a href=\&quot;&lt;?php get_site_url(); ?&gt;\&quot; class=\&quot;logo left\&quot;&gt;Network Systems&lt;/a&gt;
+
+
+
+		&lt;nav id=\&quot;nav\&quot;&gt;
+
+
+
+		&lt;a href=\&quot;#\&quot; class=\&quot;left featurelink\&quot;&gt; Get Support Now&lt;/a&gt;
+
+
+
+		&lt;ul&gt;
+
+&lt;?php get_navigation(get_page_slug(FALSE)); ?&gt;		&lt;/ul&gt;
+
+
+
+		&lt;/nav&gt;
+
+
+
+    &lt;/header&gt;]]></value></item><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;h2&gt;GetSimple Features&lt;/h2&gt;
+
+
+
+&lt;ul&gt; 
+
+
+
+&lt;li&gt;XML based data storage&lt;/li&gt; 
+
+
+
+&lt;li&gt;Best-in-Class User Interface&lt;/li&gt; 
+
+
+
+&lt;li&gt;\&#039;Undo\&#039; protection &amp;amp; backups&lt;/li&gt; 
+
+
+
+&lt;li&gt;Easy to theme&lt;/li&gt; 
+
+
+
+&lt;li&gt;Great documentation&lt;/li&gt; 
+
+
+
+&lt;li&gt;Growing community&lt;/li&gt; 
+
+
+
+&lt;/ul&gt;
+
+
+
+&lt;p&gt;This is your sidebar text. Please change me in &lt;em&gt;Theme -&gt; Edit Components&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=\&quot;http://get-simple.info/download/\&quot;&gt;Download the Latest GetSimple&lt;/a&gt;&lt;/p&gt;]]></value></item></channel>
