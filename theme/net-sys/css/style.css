@@ -270,9 +270,13 @@ overflow: hidden;
  float: right;
 }
 
-#main p {
+#main .content {
  width: 600px;
- float: left;
+}
+
+#sidebar {
+width: 350px;
+clear: both;
 }
 
 #index #main {

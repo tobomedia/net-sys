@@ -299,7 +299,7 @@
 
 				&lt;/div&gt;
 
-&lt;a href=\&quot;&lt;?php get_site_url(); ?&gt;admin\&quot; &gt; Login&lt;/a&gt;
+
 
 			&lt;/div&gt;
 
@@ -316,7 +316,7 @@
 	&lt;a href=\&quot;&lt;?php get_site_url(); ?&gt;\&quot; class=\&quot;logo left\&quot;&gt;Network Systems&lt;/a&gt;
 
 
-
+&lt;a style=\&quot;float:right;\&quot;  href=\&quot;&lt;?php get_site_url(); ?&gt;admin\&quot; &gt; Login&lt;/a&gt;
 		&lt;nav id=\&quot;nav\&quot;&gt;
 
 

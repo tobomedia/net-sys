@@ -38,8 +38,10 @@
 		<?php get_component('header-navigation'); ?>
 		<div id="main_top"></div>
 	<div id="main" role="main">
-	
-		<?php get_page_content(); ?>
+
+  	
+  		<?php get_page_content(); ?>
+
 	</div>
 	<div id="main_bottom"></div>
 	</div>

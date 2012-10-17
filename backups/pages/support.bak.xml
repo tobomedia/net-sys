@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Wed, 21 Sep 2011 14:04:28 +0100</pubDate><title><![CDATA[Support]]></title><url><![CDATA[support]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Support]]></menu><menuOrder><![CDATA[3]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;
-	&lt;span style=\&quot;font-family:quicksand;\&quot;&gt;Support&lt;/span&gt;&lt;/h1&gt;
+<item><pubDate>Tue, 16 Oct 2012 10:49:55 +0100</pubDate><title><![CDATA[Support]]></title><url><![CDATA[support]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Support]]></menu><menuOrder><![CDATA[3]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;
+	&lt;span style=\&quot;font-family:quicksand;\&quot;&gt;IT Support for PC &amp;amp; Mac&lt;/span&gt;&lt;/h1&gt;
 &lt;p&gt;
-	&amp;nbsp;&lt;/p&gt;
-&lt;div&gt;
-	&lt;img alt=\&quot;\&quot; src=\&quot;http://localhost:85/GetSimple_3.0/data/uploads/testimonials_graph_big.png\&quot; style=\&quot;width: 350px; height: 366px; \&quot; /&gt;&lt;/div&gt;
-&lt;br /&gt;
-&lt;p&gt;
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sapien enim, ullamcorper at tincidunt eu, eleifend eu nisl. Nam mauris risus, ultrices eget vestibulum id, sagittis sed ante. Suspendisse quis velit elit, nec fringilla sapien. Curabitur blandit ligula sit amet augue mattis vehicula. Nam facilisis ante sed risus molestie pharetra. Nam et porttitor sem. In auctor hendrerit mollis. Pellentesque eget justo mi, eget consectetur lacus. Vestibulum sit amet est diam. Morbi ornare auctor rutrum. Duis quam tortor, mollis id congue sed, consequat quis nibh. Curabitur imperdiet condimentum mauris vel feugiat. Maecenas eu justo eget velit posuere imperdiet nec quis arcu. Nullam rhoncus pellentesque dignissim. Donec enim justo, adipiscing eu ullamcorper a, faucibus vitae leo. Pellentesque fermentum eros volutpat felis scelerisque ac auctor tortor pulvinar. Curabitur fermentum aliquam aliquam. Suspendisse fermentum mattis sapien eu ornare. Pellentesque sed dui eu quam fringilla euismod id quis dolor. Nullam tempor, risus et volutpat sagittis, lectus enim egestas orci, in convallis justo erat sit amet magna. Nullam eget dui arcu, eu faucibus velit. Cras et orci et mi rutrum sollicitudin id nec lacus. Vivamus semper, purus lobortis ornare convallis, augue lectus lacinia lacus, in pellentesque eros metus a libero. Donec iaculis commodo lorem et facilisis. Aliquam eleifend sapien eget est adipiscing molestie. Praesent erat enim, fringilla at luctus vel, dapibus vel arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam mollis ante eget massa porttitor pellentesque. Mauris velit augue, placerat ac consequat et, pulvinar sed libero. Proin ornare, lectus ac rutrum pharetra, nunc eros hendrerit arcu, vitae malesuada massa ligula vel lectus. Phasellus vulputate imperdiet magna sit amet laoreet.&lt;/p&gt;
-&lt;p&gt;
-	&amp;nbsp;&lt;/p&gt;
+	&lt;img align=\&quot;right\&quot; alt=\&quot;\&quot; src=\&quot;http://www.tobomedia.com/network_systems/data/uploads/cloud_graph.png\&quot; /&gt;&lt;/p&gt;
+&lt;div class=\&quot;right\&quot;&gt;
+[get_component(\&#039;sidebar\&#039;)]&lt;/div&gt;
+&lt;div class=\&quot;content\&quot;&gt;
+	&lt;p&gt;
+		IT Support is like insurance. As a business you want to know you&amp;rsquo;re protected but don&amp;rsquo;t want to pay more than you have to.&lt;/p&gt;
+	&lt;p&gt;
+		Other companies will brush aside cost pressures with a &amp;lsquo;but we&amp;rsquo;ve got the best IT solutions&amp;rsquo;; in these times it&amp;rsquo;s simply unrealistic. To offer you best value we&amp;rsquo;ve done two key things:&lt;/p&gt;
+	&lt;p&gt;
+		We&amp;rsquo;ve kept our overheads low, avoiding expensive sales, advertising and plush offices, and because we know you need reliability and quick problem solving we&amp;rsquo;ve developed a series of cost effective solutions to suit your needs.&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;
+			&lt;strong&gt;Let us solve problems before they start.&lt;/strong&gt; Our Proactive managed service using leading edge software from Kaseya automatically checks and remediates recurring IT tasks like Patch Management, Audit and Inventory, Antivirus, Antimalware and a host of others. To keep costs managed we can configure the service to your needs.&lt;/li&gt;
+		&lt;li&gt;
+			&lt;strong&gt;Pay as you Go. &lt;/strong&gt; A more traditional service: your IT goes down, you call us and we fix it for you fast, either remotely while you watch or, if needs be, on site.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+		We can combine elements of each of these services to tailor a package to suit your needs.&lt;/p&gt;
+	&lt;p&gt;
+		To let you try us out risk free, we&amp;rsquo;re offering 2 hours of our awesome pay as you go service worth &amp;pound;XXX for free. Click here or call 0845 434 8610.&lt;/p&gt;
+&lt;/div&gt;
 ]]></content><private><![CDATA[]]></private></item>

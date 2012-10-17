@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Wed, 17 Oct 2012 08:23:08 +0100</pubDate><title><![CDATA[Contact Us]]></title><url><![CDATA[contact-us]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Contact Us]]></menu><menuOrder><![CDATA[8]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1&gt;
+	&lt;span style=\&quot;font-family:quicksand;\&quot;&gt;Contact Us&lt;/span&gt;&lt;/h1&gt;
+&lt;div&gt;
+	&lt;img alt=\&quot;\&quot; src=\&quot;http://www.tobomedia.com/network_systems/data/uploads/telecoms_graph.png\&quot; /&gt;&lt;/div&gt;
+&lt;div id=\&quot;sidebar\&quot; class=\&quot;right\&quot;&gt;
+
+&lt;/div&gt;
+&lt;div class=\&quot;content\&quot;&gt;
+&lt;p&gt;Relax.  One phone call and help is at hand.&lt;/p&gt;
+&lt;p&gt;
+For your free 2 hours support, or free network audit just call 0845-434 8610 or fill in the form below:&lt;/p&gt;
+Your Name
+&lt;br/&gt;
+Company
+&lt;br/&gt;
+Position
+&lt;br/&gt;
+Your email
+&lt;br/&gt;
+Telephone Number
+&lt;br/&gt;
+What do you need? [make this a larger box]
+&lt;/div&gt;]]></content><private><![CDATA[]]></private></item>

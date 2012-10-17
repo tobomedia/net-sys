@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Tue, 13 Sep 2011 20:06:34 +0100</pubDate><title><![CDATA[Home]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[home.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;left services&quot;&gt;
+<item><pubDate>Wed, 17 Oct 2012 09:00:15 +0100</pubDate><title><![CDATA[Home]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[home.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;left services\&quot;&gt;
 	&lt;h2&gt;
-		Home Entertainment&lt;/h2&gt;
+		Hardware &amp;amp; software&lt;/h2&gt;
 	&lt;p&gt;
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
-	&lt;img alt=&quot;Home Entertainment&quot; src=&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/home_ent_graph.png&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;right services&quot;&gt;
+	&lt;img alt=\&quot;Home Entertainment\&quot; src=\&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/home_ent_graph.png\&quot; /&gt;&lt;/div&gt;
+&lt;div class=\&quot;right services\&quot;&gt;
 	&lt;h2&gt;
 		Telecoms&lt;/h2&gt;
 	&lt;p&gt;
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
-	&lt;img alt=&quot;Home Entertainment&quot; src=&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/telecoms_graph.png&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;left services&quot;&gt;
+	&lt;img alt=\&quot;Home Entertainment\&quot; src=\&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/telecoms_graph.png\&quot; /&gt;&lt;/div&gt;
+&lt;div class=\&quot;left services\&quot;&gt;
 	&lt;h2&gt;
 		IT Support&lt;/h2&gt;
 	&lt;p&gt;
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
-	&lt;img alt=&quot;Home Entertainment&quot; src=&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/it_sup_graph.png&quot; style=&quot;top:0px; right:8px;&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;right services&quot;&gt;
-	&lt;h2&gt;
-		Outsourcing&lt;/h2&gt;
-	&lt;p&gt;
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
-	&lt;img alt=&quot;Home Entertainment&quot; src=&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/outsourcing_graph.png&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;left services&quot;&gt;
+	&lt;img alt=\&quot;Home Entertainment\&quot; src=\&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/it_sup_graph.png\&quot; style=\&quot;top:0px; right:8px;\&quot; /&gt;&lt;/div&gt;
+&lt;div class=\&quot;right services\&quot;&gt;
 	&lt;h2&gt;
 		Cloud Services&lt;/h2&gt;
 	&lt;p&gt;
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
-	&lt;img alt=&quot;Home Entertainment&quot; src=&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/cloud_graph.png&quot; style=&quot;top:-12px; right:8px;&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;right services&quot;&gt;
-	&lt;h2&gt;
-		Testimonials&lt;/h2&gt;
-	&lt;p&gt;
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
-	&lt;img alt=&quot;Home Entertainment&quot; src=&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/testimonials_graph.png&quot; /&gt;&lt;/div&gt;
+	&lt;img alt=\&quot;Home Entertainment\&quot; src=\&quot;http://www.tobomedia.com/GetSimple_3.0/data/uploads/cloud_graph.png\&quot; style=\&quot;top:-12px; right:8px;\&quot; /&gt;&lt;/div&gt;
+
 ]]></content><private><![CDATA[]]></private></item>
