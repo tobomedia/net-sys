@@ -1,0 +1,6 @@
+a:active {  font-family: Verdana; color: #000000; text-decoration: none}
+a:link { font-family: Verdana; color: #000000; text-decoration: none }
+a:visited { font-family: Verdana; color: #000000; text-decoration: none }
+a:hover { font-family: Verdana; color: #0066FF; text-decoration: underline}
+.footer {  font-family: Verdana; font-size: 8pt}
+.default {  font-family: Verdana, Arial, Helvetica, sans-serif; font-style: normal; font-weight: normal; color: #333333; font-size: 12px}.bodytext {  font-family: Verdana; font-size: 10pt; color: #666666}

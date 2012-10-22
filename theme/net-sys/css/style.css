@@ -240,8 +240,8 @@ display: block;
 }
 
 
-body {
-background: url(../img/body_bg.jpg) repeat-x 0 0 ;
+html {
+background: url(../img/body_bg.jpg) repeat-x 0 0 #002c59;
 }
 
 #container {
