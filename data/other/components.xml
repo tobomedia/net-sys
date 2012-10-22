@@ -15,7 +15,7 @@
 
 						&lt;h1&gt;Hardware &amp;amp; Software&lt;/h1&gt;
 
-						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+						&lt;p&gt;Choosing Hardware and Software can feel overwhelming.  There&rsquo;s so much choice it&rsquo;s tempting just to buy what you know in order to make a decision.  &lt;/p&gt;
 
 						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
 
@@ -35,7 +35,7 @@
 
 						&lt;h1&gt;Telecoms&lt;/h1&gt;
 
-						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+						&lt;p&gt;Our VOIP solution won&rsquo;t drop you, and it&rsquo;s quality is as clear as any normal phone line.  The only difference is the price.  &lt;/p&gt;
 
 						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
 
@@ -55,7 +55,7 @@
 
 						&lt;h1&gt;IT Support&lt;/h1&gt;
 
-						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+						&lt;p&gt;IT Support is like insurance.  As a business you want to know you&rsquo;re protected but don&rsquo;t want to pay more than you have to.  &lt;/p&gt;
 
 						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
 
@@ -76,7 +76,7 @@
 
 						&lt;h1&gt;Cloud Services&lt;/h1&gt;
 
-						&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapien ac metus lacinia laoreet eget in lorem. Vestibulum vel erat mi, vitae facilisis neque. Mauris libero orci, adipiscing at vehicula vel, dapibus nec turpis.&lt;/p&gt;
+						&lt;p&gt;Let us demist the cloud for you.  Cloud computing has now matured; it&rsquo;s reliable, secure, cost effective and has the potential to significantly reduce costs, and increase reliability in your business.  It&rsquo;s one of the best IT solutions in ages. &lt;/p&gt;
 
 						&lt;a href=\&quot;#\&quot;&gt;See How we can help&lt;/a&gt;
 
@@ -106,7 +106,7 @@
 
 
 
-					&lt;span&gt;0800 123 4567&lt;/span&gt; or 
+					&lt;span&gt;0845 434 8610&lt;/span&gt; or 
 
 
 
@@ -277,7 +277,7 @@
 	&lt;a href=\&quot;&lt;?php get_site_url(); ?&gt;\&quot; class=\&quot;logo left\&quot;&gt;Network Systems&lt;/a&gt;
 
 
-&lt;a style=\&quot;float:right;\&quot;  href=\&quot;&lt;?php get_site_url(); ?&gt;admin\&quot; &gt; Login&lt;/a&gt;
+&lt;!-- &lt;a style=\&quot;float:right;\&quot;  href=\&quot;&lt;?php get_site_url(); ?&gt;admin\&quot; &gt; Login&lt;/a&gt;--&gt;
 		&lt;nav id=\&quot;nav\&quot;&gt;
 
 

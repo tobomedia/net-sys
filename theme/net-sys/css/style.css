@@ -260,7 +260,7 @@ width: 1010px;
 
 #main {
 display: block;
-min-height: 500px;
+min-height: 300px;
 background: url(../img/main_content.png) repeat-y 0 0;
 padding: 0 10px;
 overflow: hidden;
